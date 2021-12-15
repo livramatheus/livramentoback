@@ -1,0 +1,11 @@
+{
+    "name": "livramatheus/livramentoback",
+    "description": "The backend of livramento.dev",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Livramatheus\\Livramentoback\\": "src/"
+        }
+    },
+    "require": {}
+}
